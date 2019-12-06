@@ -1,0 +1,1 @@
+python ImageNet.py /home/ImageNet --seed 1557 -j 8 -b 512 --pretrained -e
